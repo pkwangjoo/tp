@@ -17,4 +17,5 @@ public class CliSyntax {
 
     // Department level deifinitions
     public static final Prefix PREFIX_DEPARTMENT_NAME = new Prefix("n/");
+
 }
